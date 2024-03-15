@@ -1,4 +1,4 @@
-# APPLICATION_CRUD_PHP_MySQL
+# APPLICATION CRUD EN PHP/MySQL
 
 Ce projet est complet et grâce à lui vous aurez les bases de PHP pour créer des applications Web dynamiques.
 On applique dans ce projet les requêtes SQL à savoir CREAD, READ, UPDATE, DELETE (CRUD) et gérons les sessions des
