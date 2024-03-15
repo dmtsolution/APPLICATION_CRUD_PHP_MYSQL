@@ -9,7 +9,8 @@ Nous parlons également de la fonction htmlspecialchars() pour protéger notre a
 En effet, on réalise ici une application de publication d'avis, les utilisateurs donneront alors leurs avis sur l'application et pourront également 
 les modifier ou les supprimer.
 
-Vous pouvez voir la réalisation de cette application sur ma chaîne YouTube ici : https://www.youtube.com/@Dimitri_Mintsa
+Vous pouvez voir la réalisation de cette application sur ma chaîne YouTube ici : 
+https://www.youtube.com/watch?v=4kikcZZC3R4&list=PLTbw4SyEydLR_GRJDK6W5UgqiwajP9Sct&ab_channel=DimitriMintsa
 
 
 
